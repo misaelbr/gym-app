@@ -21,7 +21,7 @@ $ npm run test
 ### Functional requirements
 
 - [x] should be able to sign up
-- [ ] should be able to sign in
+- [x] should be able to sign in
 - [ ] should be able to get the authenticated user profile
 - [ ] should be able to get the number of checkins of the authenticated user
 - [ ] should be able to authenticated user get your checkins history
