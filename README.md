@@ -9,3 +9,9 @@ $ npm install
 $ npx prisma migrate dev # initialize database in development mode
 $ npm run start:dev # to run in development mode
 ```
+
+## How to test
+
+```bash
+$ npm run test
+```
