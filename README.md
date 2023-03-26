@@ -29,7 +29,7 @@ $ npm run test
 - [ ] should be able to authenticated user find a gym by name
 - [x] should be able to authenticated user check in a gym
 - [ ] should be able to validate the check in of a user
-- [ ] should be able to sign in a gym
+- [x] should be able to sign in a gym
 
 ### Business rules
 
