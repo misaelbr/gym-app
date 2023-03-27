@@ -24,7 +24,7 @@ $ npm run test
 - [x] should be able to sign in
 - [x] should be able to get the authenticated user profile
 - [ ] should be able to get the number of checkins of the authenticated user
-- [ ] should be able to authenticated user get your checkins history
+- [x] should be able to authenticated user get your checkins history
 - [ ] should be able to authenticated user find a nearby gym
 - [ ] should be able to authenticated user find a gym by name
 - [x] should be able to authenticated user check in a gym
