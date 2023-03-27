@@ -28,7 +28,7 @@ $ npm run test
 - [x] should be able to authenticated user find a nearby gym in a radius of 10 km
 - [x] should be able to authenticated user find a gym by name
 - [x] should be able to authenticated user check in a gym
-- [ ] should be able to validate the check in of a user
+- [x] should be able to validate the check in of a user
 - [x] should be able to sign in a gym
 
 ### Business rules
