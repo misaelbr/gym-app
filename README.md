@@ -36,7 +36,7 @@ $ npm run test
 - [x] should not be able to sign up with an email already registered
 - [x] should not be able make more then 1 check in same day
 - [x] should not be able to check-in if the user distance is greater than 100 meters from the gym
-- [ ] the check-in only can validate in 20 minutes after the check-in
+- [x] the check-in only can validate in 20 minutes after the check-in
 - [ ] the ckeck-in can be validated by the gym manager
 - [ ] the gym only can sign up by the admin users
 
